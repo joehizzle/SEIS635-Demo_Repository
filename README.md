@@ -6,4 +6,8 @@ Memory Game:Played with a standard 52 card deck
          If the flipped cards to not match, the cards are flipped face down in the same position and it is now the next person's turn.
          The person with the most matches after all the cards have been matchedwins
         
-Vision Statement: This is a simple card game for anyone who is looking to test their memory, improve their memory or just have some fun.
+Vision Statement: This is a simple card game for anyone who is looking to test their memory, improve their memory or just have some fun. Unlike other card games, this is a easy to learn game for everyone that is fun and also helps improve memory. 
+
+Features: Flip: Turning over 2 cards to reveal the face of the card
+          Match: when 2 cards flipped over are the same 
+
