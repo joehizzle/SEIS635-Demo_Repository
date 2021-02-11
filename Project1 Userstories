@@ -1,0 +1,10 @@
+1: As a player, I want to select 2 cards to flip over
+2: As a player, I want to flip over the 2 cards that are selected
+3: As a player, I want to flip back the 2 cards if they are unmatched
+4: As a player, I want to move the 2 matched cards to a matched pile
+5: As a player, I want to keep track of the number of matched cards
+6: As a Player, I want to keep track of how many unmatched cards there are
+7: As a Player, I want to know the score of the game
+8: As a Player, I want to know when the game is over
+9: As a Player, I want to know who won the game
+10: As a Player, I want to restart the game
